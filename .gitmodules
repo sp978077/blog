@@ -1,0 +1,9 @@
+[submodule "themes/starter-hugo-academic"]
+	path = themes/starter-hugo-academic
+	url = https://github.com/wowchemy/starter-hugo-academic.git
+[submodule "themes/hugo-PaperMod"]
+	path = themes/hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/aether"]
+	path = themes/aether
+	url = https://github.com/josephhutch/aether.git
